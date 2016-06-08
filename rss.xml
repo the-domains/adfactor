@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adfactor]]></title>
+        <description><![CDATA[Adfactor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 14:22:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Adfactor - selective web marketing</p>]]></description>
+            <link>undefinedadfactor-selective-web-marketing/index.html</link>
+            <guid isPermaLink="false">cbd6c5c3-d921-44ea-a338-d46d7bf47811</guid>
+            <pubDate>Wed, 08 Jun 2016 14:22:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
